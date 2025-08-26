@@ -1,3 +1,4 @@
+--nigga why u use https spy kys bro i hope u die soon (by ilya)
 local ESP = {}
 ESP.__index = ESP
 
